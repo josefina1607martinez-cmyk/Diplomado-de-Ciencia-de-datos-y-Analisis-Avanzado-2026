@@ -1,6 +1,6 @@
 # Detección de fraude en transacciones financieras móviles (PaySim)
 
-Proyecto Final Integrador de la Diplomatura en Ciencia de Datos y Análisis Avanzado (UTN.BA). Equipo N.º 21: Axel Bojko, Joaquín Bousoño, Rocío Esposito, Josefina Martínez y Romina Obregón.
+Proyecto Final Integrador de la Diplomatura en Ciencia de Datos y Análisis Avanzado (UTN.BA). Equipo N.º 21: Axel Bojko, Joaquín Bousono, Rocío Esposito, Josefina Martínez y Romina Obregón.
 
 ## Qué hace
 
